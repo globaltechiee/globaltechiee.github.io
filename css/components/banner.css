@@ -1,0 +1,36 @@
+.banner {
+	background-image: url();
+	color: white;
+	background-size: cover;
+	padding: 60px 0;
+}
+.banner h1 {
+	font-size: 40px;
+
+}
+
+.banner p {
+	font-size: 24px;
+	font-weight: lighter;
+	text-shadow: 2px 2px 3px rgba(0,0,0,.2)
+	margin-bottom: 20px;
+}
+
+
+.banner-about {
+	background-image: url();
+	color: white;
+	background-size: cover;
+	padding: 60px 0;
+}
+.banner-about h1 {
+	font-size: 40px;
+
+}
+
+.banner-about p {
+	font-size: 24px;
+	font-weight: lighter;
+	text-shadow: 2px 2px 3px rgba(0,0,0,.2)
+	margin-bottom: 20px;
+}
